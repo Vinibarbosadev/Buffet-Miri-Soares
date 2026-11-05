@@ -310,9 +310,9 @@ function App() {
         <section className="hero section-hero">
           <div className="hero-backdrop" />
           <div className="hero-content container reveal-on-scroll">
-            <div className="eyebrow"></div>
-            <div className="eyebrow"></div>
-            <div className="eyebrow"></div>
+            <div className="eyebrow"> </div>
+            <div className="eyebrow"> </div>
+            <div className="eyebrow"> </div>
             <div className="eyebrow">Taiobeiras • Minas Gerais</div>
             <h1>Momentos especiais merecem sabores inesquecíveis.</h1>
             <p>
