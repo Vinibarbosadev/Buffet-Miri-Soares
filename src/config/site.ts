@@ -1,4 +1,4 @@
-export const SITE_URL = 'https://vinibarbosadev.github.io/Buffet-Miri-Soares/';
+export const SITE_URL = 'https://buffet-miria-soares.vercel.app';
 export const BUSINESS_NAME = 'Buffet Miriã Soares';
 export const WHATSAPP_NUMBER = '5538992526383';
 export const INSTAGRAM_URL = 'https://www.instagram.com/miriasoaresbuffet/';
