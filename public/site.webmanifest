@@ -1,0 +1,15 @@
+{
+  "name": "Buffet Miriã Soares",
+  "short_name": "Miriã Soares",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#F5EFE7",
+  "theme_color": "#641B30",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

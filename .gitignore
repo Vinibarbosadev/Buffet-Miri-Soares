@@ -1,0 +1,7 @@
+node_modules/
+dist/
+docs/
+.vite/
+*.log
+.DS_Store
+.vscode/
