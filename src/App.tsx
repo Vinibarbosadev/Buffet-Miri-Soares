@@ -311,6 +311,9 @@ function App() {
           <div className="hero-backdrop" />
           <div className="hero-content container reveal-on-scroll">
             <div className="eyebrow">Taiobeiras • Minas Gerais</div>
+            <div className="eyebrow">Taiobeiras • Minas Gerais</div>
+            <div className="eyebrow">Taiobeiras • Minas Gerais</div>
+            <div className="eyebrow">Taiobeiras • Minas Gerais</div>
             <h1>Momentos especiais merecem sabores inesquecíveis.</h1>
             <p>
               O Buffet Miriã Soares cria experiências elegantes e acolhedoras para casamentos,
